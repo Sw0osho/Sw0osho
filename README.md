@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sw0osho
-- 👀 I’m interested in developing software
-- 🌱 I’m currently learning computer science
+### Hi there, I'm Sw0osho 👋
 
-<!---
-Sw0osho/Sw0osho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student passionate about Python and web development. I'm also actively involved in scientific research.
+
+- 🌱 I’m currently learning more about backend development and data science.
+- 🔭 I’m working on various web development projects and scientific research.
+- 💬 Ask me about Python, web development, and science research.
+
+Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
